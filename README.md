@@ -87,8 +87,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/rahul-karki-39290b351/
-- Portfolio: [Your Website Link]
+- LinkedIn: https://www.linkedin.com/in/rahul-karki-39290b351
 - Email: rahulkarki0608@gmail.com
 
 ---
