@@ -15,7 +15,6 @@
   <a href="https://www.linkedin.com/in/rahul-karki-39290b351"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rahulkarki0608@gmail.com"><img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/github/followers/Rahul-Karki?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-  <img src="https://komarev.com/ghpvc/?username=Rahul-Karki&style=for-the-badge&color=0EA5E9" alt="Visitor counter" />
 </p>
 
 <p><strong>Full-Stack Developer</strong> • MERN Stack • Backend-focused • Obsessed with clean architecture and production readiness</p>
