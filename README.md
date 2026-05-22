@@ -78,15 +78,15 @@ I build modern web applications with a strong focus on reliability, performance,
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rahul-Karki&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Karki&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rahul-Karki&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rahul-Karki&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Karki&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
-<!-- If you prefer a different theme, change tokyonight to another supported theme. -->
+<!-- These cards are backed by github-profile-summary-cards because the original stats service was returning 503. -->
 
 ---
 
