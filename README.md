@@ -77,12 +77,15 @@ I build modern web applications with a strong focus on reliability, performance,
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rahul-Karki&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Karki&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rahul-Karki&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800#gh-dark-mode-only" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rahul-Karki&show_icons=true&theme=default&hide_border=true&cache_seconds=1800#gh-light-mode-only" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Karki&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800#gh-dark-mode-only" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Karki&layout=compact&theme=default&hide_border=true&cache_seconds=1800#gh-light-mode-only" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Karki&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Karki&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Karki&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub streak" />
 </div>
 
 <!-- Stats cards refresh regularly; cache is set to 1800 seconds for near real-time updates. -->
@@ -92,7 +95,8 @@ I build modern web applications with a strong focus on reliability, performance,
 ## 📈 Recent Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-Karki&theme=tokyo-night&hide_border=true&area=true" alt="Recent activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-Karki&theme=tokyo-night&hide_border=true&area=true#gh-dark-mode-only" alt="Recent activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-Karki&theme=github-light&hide_border=true&area=true#gh-light-mode-only" alt="Recent activity graph" />
 </div>
 
 <!-- This section gives the profile a live feel. The graph updates automatically. -->
