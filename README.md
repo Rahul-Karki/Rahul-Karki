@@ -14,7 +14,7 @@
 <p>
   <a href="https://www.linkedin.com/in/rahul-karki-39290b351"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rahulkarki0608@gmail.com"><img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Rahul-Karki"><img src="https://badgen.net/github/followers/Rahul-Karki?icon=github&label=Followers" alt="GitHub followers" /></a>
+  <a href="https://github.com/Rahul-Karki"><img src="https://img.shields.io/github/followers/Rahul-Karki?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
 </p>
 
 <p><strong>Full-Stack Developer</strong> • MERN Stack • Backend-focused • Obsessed with clean architecture and production readiness</p>
@@ -82,15 +82,15 @@ I build modern web applications with a strong focus on reliability, performance,
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rahul-Karki&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Rahul-Karki&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rahul-Karki&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rahul-Karki&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=300" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Rahul-Karki&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&cache_seconds=300" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rahul-Karki&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&cache_seconds=300" alt="GitHub Stats" />
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Karki&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Karki&layout=compact&theme=default&hide_border=true&cache_seconds=1800" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Karki&layout=compact&theme=default&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Karki&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=300" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Karki&layout=compact&theme=default&hide_border=true&cache_seconds=300" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Karki&layout=compact&theme=default&hide_border=true&cache_seconds=300" alt="Top Languages" />
   </picture>
 </div>
 
