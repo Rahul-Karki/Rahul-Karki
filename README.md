@@ -82,15 +82,15 @@ I build modern web applications with a strong focus on reliability, performance,
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rahul-Karki&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=300" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Rahul-Karki&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&cache_seconds=300" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rahul-Karki&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&cache_seconds=300" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Rahul-Karki&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Rahul-Karki&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" />
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Rahul-Karki&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" alt="GitHub Stats" />
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Karki&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=300" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Karki&layout=compact&theme=default&hide_border=true&cache_seconds=300" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Karki&layout=compact&theme=default&hide_border=true&cache_seconds=300" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rahul-Karki&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rahul-Karki&layout=compact&theme=default&hide_border=true" />
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rahul-Karki&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
   </picture>
 </div>
 
