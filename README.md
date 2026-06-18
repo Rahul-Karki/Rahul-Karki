@@ -70,6 +70,7 @@ I build modern web applications with a strong focus on reliability, performance,
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
       <img src="https://img.shields.io/badge/OpenTelemetry-419EDA?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+      <img src="https://img.shields.io/badge/Loki-6F2EFF?style=flat-square&logo=grafana&logoColor=white" alt="Loki" />
     </td>
   </tr>
 </table>
