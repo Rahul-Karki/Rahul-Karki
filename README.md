@@ -128,7 +128,7 @@ I build modern web applications with a strong focus on reliability, performance,
 ### API Gateway System
 - Distributed caching middleware with Redis and concurrency control
 - Cookie-based JWT auth with refresh flows and CSRF protection
-- Nginx edge gateway, response caching, security headers, and CI/CD pipeline via Jenkins for automated deployment
+- Nginx edge gateway, response caching and security headers 
 
 ---
 
