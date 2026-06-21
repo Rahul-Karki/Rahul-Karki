@@ -71,6 +71,8 @@ I build modern web applications with a strong focus on reliability, performance,
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
       <img src="https://img.shields.io/badge/OpenTelemetry-419EDA?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
       <img src="https://img.shields.io/badge/Loki-6F2EFF?style=flat-square&logo=grafana&logoColor=white" alt="Loki" />
+      <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
     </td>
   </tr>
 </table>
