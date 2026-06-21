@@ -123,14 +123,12 @@ I build modern web applications with a strong focus on reliability, performance,
 ### Resume Studio
 - Full-stack SaaS built with React on the frontend and Express + TypeScript on the backend
 - JWT auth with Google OAuth, refresh tokens, and secure HttpOnly cookies
-- Redis caching, rate limiting, OpenTelemetry tracing, structured logging, and Docker deployment
+- Redis caching, rate limiting, OpenTelemetry tracing, structured logging, Loki for centralized log aggregation, and Docker deployment
 
 ### API Gateway System
 - Distributed caching middleware with Redis and concurrency control
 - Cookie-based JWT auth with refresh flows and CSRF protection
-- Nginx edge gateway, response caching, and security headers
-
-<!-- Replace these with your actual best projects and keep the bullets outcome-oriented. -->
+- Nginx edge gateway, response caching, security headers, and CI/CD pipeline via Jenkins for automated deployment
 
 ---
 
